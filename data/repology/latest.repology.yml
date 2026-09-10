@@ -1,0 +1,192 @@
+- repo: nix_stable_24_11
+  srcname: tere
+  visiblename: tere
+  version: 1.6.0
+  origversion: null
+  status: newest
+  summary: Faster alternative to cd + ls
+  maintainers:
+    - producermatt42@gmail.com
+  licenses:
+    - EUPL-1.2
+- repo: nix_stable_25_05
+  srcname: tere
+  visiblename: tere
+  version: 1.6.0
+  origversion: null
+  status: newest
+  summary: Faster alternative to cd + ls
+  maintainers:
+    - producermatt42@gmail.com
+  licenses:
+    - EUPL-1.2
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: tere
+  binname: tere
+  visiblename: tere
+  version: 1.6.0
+  origversion: 1.6.0-2
+  status: newest
+  summary: A terminal file explorer
+  licenses:
+    - custom:EUPL
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: tere
+  binname: tere
+  visiblename: tere
+  version: 1.6.0
+  origversion: 1.6.0-2
+  status: newest
+  summary: A terminal file explorer
+  licenses:
+    - custom:EUPL
+- repo: nix_stable_25_11
+  srcname: tere
+  visiblename: tere
+  version: 1.6.0
+  origversion: null
+  status: newest
+  summary: Faster alternative to cd + ls
+  maintainers:
+    - producermatt42@gmail.com
+  licenses:
+    - EUPL-1.2
+- repo: nix_stable_24_05
+  srcname: tere
+  visiblename: tere
+  version: 1.5.1-unstable-2024-04-01
+  origversion: null
+  status: outdated
+  summary: A faster alternative to cd + ls
+  maintainers:
+    - producermatt42@gmail.com
+  licenses:
+    - EUPL-1.2
+- repo: alpine_edge
+  subrepo: testing
+  srcname: tere
+  binname: tere
+  visiblename: tere
+  version: 1.6.0
+  origversion: 1.6.0-r0
+  status: newest
+  summary: Terminal file explorer
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - EUPL-1.2
+- repo: alpine_edge
+  subrepo: testing
+  srcname: tere
+  binname: tere-doc
+  visiblename: tere-doc
+  version: 1.6.0
+  origversion: 1.6.0-r0
+  status: newest
+  summary: Terminal file explorer (documentation)
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - EUPL-1.2
+- repo: arch
+  subrepo: extra
+  srcname: tere
+  binname: tere
+  visiblename: tere
+  version: 1.6.0
+  origversion: 1.6.0-2
+  status: newest
+  summary: A terminal file explorer
+  licenses:
+    - custom:EUPL
+- repo: freebsd
+  srcname: sysutils/tere
+  binname: tere
+  visiblename: sysutils/tere
+  version: 1.6.0
+  origversion: 1.6.0_17
+  status: newest
+  summary: Terminal file explorer
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - sysutils
+- repo: homebrew
+  srcname: tere
+  visiblename: tere
+  version: 1.6.0
+  origversion: null
+  status: newest
+  summary: Terminal file explorer
+- repo: homebrew
+  srcname: tere
+  visiblename: tere
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Terminal file explorer
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: tere
+  binname: tere
+  visiblename: tere
+  version: 1.6.0
+  origversion: 1.6.0-2
+  status: newest
+  summary: A terminal file explorer
+  licenses:
+    - custom:EUPL
+- repo: nix_stable_26_05
+  srcname: tere
+  visiblename: tere
+  version: 1.6.0
+  origversion: null
+  status: newest
+  summary: Faster alternative to cd + ls
+  maintainers:
+    - producermatt42@gmail.com
+  licenses:
+    - EUPL-1.2
+- repo: nix_unstable
+  srcname: tere
+  visiblename: tere
+  version: 1.6.0
+  origversion: null
+  status: newest
+  summary: Faster alternative to cd + ls
+  maintainers:
+    - producermatt42@gmail.com
+  licenses:
+    - EUPL-1.2
+- repo: parabola
+  subrepo: extra
+  srcname: tere
+  binname: tere
+  visiblename: tere
+  version: 1.6.0
+  origversion: 1.6.0-2
+  status: newest
+  summary: A terminal file explorer
+  licenses:
+    - custom:EUPL
+- repo: scoop
+  subrepo: main
+  binname: tere
+  visiblename: tere
+  version: 1.6.0
+  origversion: null
+  status: newest
+  licenses:
+    - EUPL-1.2
+- repo: termux
+  srcname: tere
+  binname: tere
+  visiblename: tere
+  version: 1.6.0
+  origversion: null
+  status: newest
+  summary: Terminal file explorer written in rust
+  maintainers:
+    - termux@github
