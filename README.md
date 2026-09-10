@@ -22,7 +22,15 @@ x install tere
 - **Latest**: `v1.6.0` (2024-09-15)
 - **Last commit**: 2026-03-09
 - **Assets in release**: 4
-- **Published**: 2024-09-15T20:16:18Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [tere-1.6.0-aarch64-unknown-linux-gnu.zip](https://github.com/mgunyho/tere/releases/download/v1.6.0/tere-1.6.0-aarch64-unknown-linux-gnu.zip) | 1.1 MiB | `native/linux/arm64/glibc` |
+| [tere-1.6.0-x86_64-pc-windows-gnu.zip](https://github.com/mgunyho/tere/releases/download/v1.6.0/tere-1.6.0-x86_64-pc-windows-gnu.zip) | 1.1 MiB | `native/win/x64` |
+| [tere-1.6.0-x86_64-unknown-linux-gnu.zip](https://github.com/mgunyho/tere/releases/download/v1.6.0/tere-1.6.0-x86_64-unknown-linux-gnu.zip) | 1.2 MiB | `native/linux/x64/glibc` |
+| [tere-1.6.0-x86_64-unknown-linux-musl.zip](https://github.com/mgunyho/tere/releases/download/v1.6.0/tere-1.6.0-x86_64-unknown-linux-musl.zip) | 1.2 MiB | `native/linux/x64/musl` |
 
 ## Popularity
 
@@ -57,8 +65,8 @@ Total: **4,360** lines of code across **19** files in the top 5 languages.
 Install metadata for tere lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tere` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/tere.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/tere.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:14:07Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:47:00Z._
