@@ -66,9 +66,9 @@
   srcname: tere
   binname: tere
   visiblename: tere
-  version: 1.5.1
-  origversion: 1.5.1-1
-  status: outdated
+  version: 1.6.0
+  origversion: 1.6.0-2
+  status: newest
   summary: A terminal file explorer
   licenses:
     - custom:EUPL
@@ -77,9 +77,9 @@
   srcname: tere
   binname: tere
   visiblename: tere
-  version: 1.5.1
-  origversion: 1.5.1-1
-  status: outdated
+  version: 1.6.0
+  origversion: 1.6.0-2
+  status: newest
   summary: A terminal file explorer
   licenses:
     - custom:EUPL
