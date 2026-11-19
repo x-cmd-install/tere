@@ -47,12 +47,12 @@ Total: **4,360** lines of code across **19** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 0 | 1 | 0 | 0 |
-| last60d | 2026-09-18 | 0 | 1 | 0 | 2 | 2 | 1 |
-| 90d | 2026-08-19 | 0 | 1 | 0 | 2 | 2 | 1 |
-| last180d | 2026-05-21 | 0 | 1 | 0 | 2 | 2 | 1 |
-| 360d | 2025-11-22 | 0 | 1 | 0 | 2 | 2 | 3 |
-| last720d | 2024-11-27 | 0 | 2 | 0 | 3 | 2 | 3 |
+| 30d | 2026-10-20 | 0 | 0 | 0 | 1 | 0 | 0 |
+| last60d | 2026-09-20 | 0 | 1 | 0 | 2 | 2 | 1 |
+| 90d | 2026-08-21 | 0 | 1 | 0 | 2 | 2 | 1 |
+| last180d | 2026-05-23 | 0 | 1 | 0 | 2 | 2 | 1 |
+| 360d | 2025-11-24 | 0 | 1 | 0 | 2 | 2 | 3 |
+| last720d | 2024-11-29 | 0 | 2 | 0 | 3 | 2 | 3 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for tere lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:43:18Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:25:40Z._
