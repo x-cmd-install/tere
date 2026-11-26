@@ -37,7 +37,7 @@ Total: **4,360** lines of code across **19** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,806 · **Forks**: 39 · **Open issues**: 52 · **Contributors**: 16
+- **Stars**: 1,805 · **Forks**: 39 · **Open issues**: 52 · **Contributors**: 16
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **4,360** lines of code across **19** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 1 | 0 | 0 |
-| last60d | 2026-09-26 | 0 | 1 | 0 | 2 | 2 | 1 |
-| 90d | 2026-08-27 | 0 | 1 | 0 | 2 | 2 | 1 |
-| last180d | 2026-05-29 | 0 | 1 | 0 | 2 | 2 | 1 |
-| 360d | 2025-11-30 | 0 | 1 | 0 | 2 | 2 | 3 |
-| last720d | 2024-12-05 | 0 | 2 | 0 | 3 | 2 | 3 |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 1 | 0 | 0 |
+| last60d | 2026-09-27 | 0 | 1 | 0 | 2 | 2 | 1 |
+| 90d | 2026-08-28 | 0 | 1 | 0 | 2 | 2 | 1 |
+| last180d | 2026-05-30 | 0 | 1 | 0 | 2 | 2 | 1 |
+| 360d | 2025-12-01 | 0 | 1 | 0 | 2 | 2 | 3 |
+| last720d | 2024-12-06 | 0 | 2 | 0 | 3 | 2 | 3 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for tere lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:58:32Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:41:46Z._
